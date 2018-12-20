@@ -8,8 +8,8 @@ namespace ConsoleApplication1
 {
     class Program
     {
-        static void Main(string[] args)gujhgfjfjf
-        {gkhjkjh gfhytrj
+        static void Main(string[] args)
+        {gkhjkjh gfhytrjklklklkl
         }
     }
 }
